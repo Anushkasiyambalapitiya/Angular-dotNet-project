@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDBAF13-E021-434B-B4AB-FFD660FB6ECE}|fullstack.api\\fullstack.api.csproj|c:\\users\\user\\desktop\\angular dotnet project\\fullstack ui\\fullstack.api\\fullstack.api\\fullstack.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDBAF13-E021-434B-B4AB-FFD660FB6ECE}|fullstack.api\\fullstack.api.csproj|solutionrelative:fullstack.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDBAF13-E021-434B-B4AB-FFD660FB6ECE}|fullstack.api\\fullstack.api.csproj|c:\\users\\user\\desktop\\angular dotnet project\\fullstack ui\\fullstack.api\\fullstack.api\\fullstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDBAF13-E021-434B-B4AB-FFD660FB6ECE}|fullstack.api\\fullstack.api.csproj|solutionrelative:fullstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDBAF13-E021-434B-B4AB-FFD660FB6ECE}|fullstack.api\\fullstack.api.csproj|c:\\users\\user\\desktop\\angular dotnet project\\fullstack ui\\fullstack.api\\fullstack.api\\fullstack.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDBAF13-E021-434B-B4AB-FFD660FB6ECE}|fullstack.api\\fullstack.api.csproj|solutionrelative:fullstack.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDBAF13-E021-434B-B4AB-FFD660FB6ECE}|fullstack.api\\fullstack.api.csproj|c:\\users\\user\\desktop\\angular dotnet project\\fullstack ui\\fullstack.api\\fullstack.api\\fullstack.api\\fullstack.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFDBAF13-E021-434B-B4AB-FFD660FB6ECE}|fullstack.api\\fullstack.api.csproj|solutionrelative:fullstack.api\\fullstack.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\fullstack.api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "fullstack.api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\fullstack.api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "fullstack.api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:24:45.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\fullstack.api\\Program.cs",
+              "RelativeDocumentMoniker": "fullstack.api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\fullstack.api\\Program.cs",
+              "RelativeToolTip": "fullstack.api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:34:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\fullstack.api\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "fullstack.api\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\fullstack.api\\Models\\Employee.cs",
+              "RelativeToolTip": "fullstack.api\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:20:06.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fullstack.api.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\fullstack.api\\fullstack.api.csproj",
+              "RelativeDocumentMoniker": "fullstack.api\\fullstack.api.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Angular Dotnet Project\\Fullstack ui\\Fullstack.Api\\fullstack.api\\fullstack.api\\fullstack.api.csproj",
+              "RelativeToolTip": "fullstack.api\\fullstack.api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T17:18:53.044Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
